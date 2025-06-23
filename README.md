@@ -1,6 +1,6 @@
 # jgit-quarkus-bug
 
-This project is a minimal example to reproduce the issue with Quarkus and JGit.
+This project is a minimal example to reproduce [this issue](https://github.com/quarkiverse/quarkus-jgit/issues/200) with Quarkus and JGit.
 
 Reproducing the issue:
 
