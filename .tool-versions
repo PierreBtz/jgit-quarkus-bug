@@ -1,0 +1,4 @@
+java graalvm-community-21.0.2
+# sadly we can't use this since there is no distribution available for Intel macs... (but it's working good!)
+# java mandrel-23.1.4.0-Final+java21
+maven 3.9.6
